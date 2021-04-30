@@ -4,8 +4,9 @@
 <!-- Linkedin -->
 <!-- <p align="center"> -->
 <br />
-  <a href="https://www.linkedin.com/in/leoworkcp/"  style="text-decoration: none; color:black" >
+  <a href="https://leoworkcp.github.io/"  style="text-decoration:none; color:black" >
    <h1 align="left">ABOUT
+  <a href="https://www.linkedin.com/in/leoworkcp/"  style="text-decoration:none; color:black" >
     <img src="./assets/linkedin-logo.png" alt="Logo" style="background-color:white"  align="right">
     <br />
   </a>
