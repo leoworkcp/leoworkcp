@@ -80,8 +80,5 @@ Comic-Collections
   </a>
 </h2>
 
-<<<<<<< HEAD: README.md
 <a href="mailto:leoworkcp@gmail.com" target="_blank"  class="icon alt fa-envelope" style="text-decoration: none"><h2 align="right" >
 ✉️</a>
-=======
->>>>>>> f65f9f6573cd4bfb3fcb9a141273b319089f4c04:README.md
